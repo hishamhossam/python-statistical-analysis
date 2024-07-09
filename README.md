@@ -8,7 +8,7 @@ To perform statistical analysis effectively in Python using tools like Anaconda 
 - How To Get Cloned
 
   
-  ### Clone the Repository:
+  ## Clone the Repository:
 
 ```bash
 git clone https://github.com/hishamhossam/python-statistical-analysis.git
