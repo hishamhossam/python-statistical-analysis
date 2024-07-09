@@ -5,6 +5,13 @@ To perform statistical analysis effectively in Python using tools like Anaconda 
 ### 1. Setting Up Your Environment
 
 - **Use Anaconda or Google Colab**: These platforms provide a robust environment with pre-installed libraries like Pandas, NumPy, Matplotlib, and SciPy, which are essential for statistical analysis.
+- '''
+  ### Clone the Repository:
+
+```
+git clone https://github.com/hishamhossam/python-statistical-analysis.git
+cd python-statistical-analysis.git
+```
 
 ### 2. Organizing Your Project
 
